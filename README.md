@@ -5,5 +5,5 @@ Croustibat
 
 # In-Progress Translations
 
-#Completed Games
+# Completed Games
 Croustibat (German) 99.96%
