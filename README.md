@@ -1,13 +1,13 @@
 # coktel-vision-translations
 
 # Planned Games
-Croustibat
+
 
 # In-Progress Translations
-Croustibat (German) 99.96%
+
 
 # Completed Games
-
+Croustibat (German) 100.00%
 
 # Used Tools
 * [boozook](https://github.com/adventurebrew/boozook)
