@@ -1,13 +1,12 @@
 # coktel-vision-translations
 
 # Planned Games
-
+Adibou 3 into Hebrew
 
 # In-Progress Translations
-
+Croustibat (German): Incorrect text/pictures, playable for users that knows Croustibat
 
 # Completed Games
-Croustibat (German) 100.00%
 
 # Used Tools
 * [boozook](https://github.com/adventurebrew/boozook)
